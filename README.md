@@ -12,9 +12,9 @@ Développé en JavaScript avec Discord.js, ce bot permet à votre serveur de pro
 
 Clone le projet :
 
-git clone [https://github.com/jarod-it/clicker.git]
+git clone [https://github.com/jarod-it/discord-music-bot.git]
 
-cd convolution
+cd discord-music-bot
 
 # 🧑‍💻 Auteur
 
